@@ -1,6 +1,5 @@
 function sumar(a, b) {
-  const s= a + b;
-  return s;
+  return a+b;
 }
 
 
